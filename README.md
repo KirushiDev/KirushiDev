@@ -1,4 +1,4 @@
-# Hey, I'm Kirushield 👋
+# Hey, I'm Kirushi 👋
 
 ## About me 🙋‍♂️
 I'm a computer science student in a work-study program, with skills in web development and software programming.

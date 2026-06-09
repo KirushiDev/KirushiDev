@@ -4,7 +4,7 @@
 
 I'm a **Full Stack Developer** currently in my 3rd year of a Computer Science degree (BUT Informatique) at Université Gustave Eiffel, and I'll be joining **EFREI Paris** in September 2026 as an **Engineering student** (Software & Information Systems).
 
-I've been working as a **developer in a work-study program for 2 years** at DessineTonMeuble, where I've built and shipped real production tools — not just school projects.
+I've been working as a **developer in a work-study program for 2 years** at DessineTonMeuble, where I've built and shipped real production tools not just school projects.
 
 🔍 **I'm actively looking for a 3-year apprenticeship contract starting September 2026**
 📅 Rhythm: 3 days company / 2 days school or 1 week / 1 week
